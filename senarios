@@ -1,0 +1,8 @@
+# Lunch public instance.
+# Lunch Private instance.
+# Install httpd server on public server and access it out side.
+# Install nginx sever on public server and access it out side.
+# Install httpd server on public server and access it out side using ELB (Elastic Load balancer).
+# Install nginx server on public server and access it out side using ELB (Elastic Load balancer).
+# Install httpd server on public server and then stop it and create AMI using instance.
+# install nginx on instance at Lunch time using user data.
