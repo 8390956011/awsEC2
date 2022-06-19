@@ -1,0 +1,12 @@
+#  way 1
+using putty
+
+#way2
+using ubuntu app on local
+
+cd /mnt/c   --- to connect c drive to ubuntu app
+cd Users/admin/Downloads   --- go to download folder 
+chmod 400 mahendra.pem     
+ssh -i mahendra.pem ubuntu@publicip
+
+
