@@ -1,0 +1,19 @@
+#install-httpd-on-instance on amazon Linux
+sudo yum update -y
+sudo yum install httpd -y
+sudo systemctl status httpd
+sudo systemctl start httpd
+sudo systemctl enable httpd
+sudo systemctl disable httpd
+
+
+
+
+#install-httpd-on-instance on ubuntu
+sudoapt-get update -y
+sudo apt-get install nginx -y
+sudo systemctl status nginx
+sudo systemctl start nginx
+sudo systemctl enable nginx
+sudo systemctl disable nginx
+
