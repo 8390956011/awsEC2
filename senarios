@@ -6,3 +6,4 @@
 # Install nginx server on public server and access it out side using ELB (Elastic Load balancer).
 # Install httpd server on public server and then stop it and create AMI using instance.
 # install nginx on instance at Lunch time using user data.
+# Install nginx server on private server and access it out side using ELB (Elastic Load balancer).
